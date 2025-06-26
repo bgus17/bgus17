@@ -10,4 +10,4 @@ Saya seorang Web Developer yang fokus di Laravel dan PHP. Saya suka membuat apli
 
 ### 📫 Kontak saya
 - Email: bagusssatrio620@gmail.com
-- LinkedIn: [linkedin.com/in/bagus-satrio]((https://www.linkedin.com/in/bagus-satrio-876292342/))
+- LinkedIn: https://www.linkedin.com/in/bagus-satrio-876292342/
